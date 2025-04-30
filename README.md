@@ -27,7 +27,9 @@
   </style>
 </head>
 <body>
-  <h1>Carrossel de Vídeos</h1>
+  <h1>Bem-vindo ao carrossel de vídeos!</h1>
+  <p>Abaixo estão os vídeos do nosso módulo. Assista na ordem e anote os pontos principais.</p>
+
   <div class="carousel">
     <iframe src="https://www.youtube.com/embed/9THIw3wP7d4" allowfullscreen></iframe>
     <iframe src="https://www.youtube.com/embed/aOFPZ7cfiTE" allowfullscreen></iframe>
@@ -36,6 +38,8 @@
     <iframe src="https://www.youtube.com/embed/iKTZEpxljoo" allowfullscreen></iframe>
     <iframe src="https://www.youtube.com/embed/POJHqPjLnnY" allowfullscreen></iframe>
   </div>
+
+  <p>Depois de assistir, acesse o fórum da turma para compartilhar suas reflexões.</p>
 </body>
 </html>
-Criar index.html com carrossel
+
